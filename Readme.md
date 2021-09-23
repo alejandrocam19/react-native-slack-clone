@@ -7,7 +7,7 @@
 ## How to run project
 
 ```sh
-git clone git@github.com:GetStream/slack-clone-react-native.git
+git clone git@github.com:alejandrocam19/slack-clone-react-native.git
 cd slack-clone-react-native
 
 # Install npm dependencies
